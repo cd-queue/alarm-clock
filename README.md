@@ -22,7 +22,7 @@ alarm-clock/
 ├── index.html
 ├── style.css
 ├── script.js
-├── alarm.mp3
+├── assets
 └── README.md
 ```
 
